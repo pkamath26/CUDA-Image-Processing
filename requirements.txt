@@ -1,0 +1,11 @@
+1. CUDA-enabled GPU: The program runs on NVIDIA GPUs that support CUDA 
+technology, such as NVIDIA GeForce, Tesla, or Quadro series GPUs. 
+2. CUDA Toolkit: The CUDA Toolkit is a development environment for creating GPUaccelerated applications. The reverse gray-level program is developed using the 
+CUDA C/C++ programming language and requires the CUDA Toolkit to compile 
+and execute. 
+3. PGM Image File: The program reads in a PGM (Portable Gray Map) image ϐile that 
+contains the grayscale image data. 
+4. Input and Output File Paths: The program requires the input and output ϐile paths 
+as command-line arguments. The input ϐile path is the path to the PGM image ϐile 
+to be processed, and the output ϐile path is the path where the resulting 
+processed image will be saved. 
